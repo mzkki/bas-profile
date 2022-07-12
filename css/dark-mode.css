@@ -1,0 +1,114 @@
+/*!
+ * Dark Mode Switch v1.0.1 (https://github.com/coliff/dark-mode-switch)
+ * Copyright 2021 C.Oliff
+ * Licensed under MIT (https://github.com/coliff/dark-mode-switch/blob/main/LICENSE)
+ */
+
+ [data-theme="dark"] {
+    background-color: #111 !important;
+    color: #eee;
+  }
+  
+  [data-theme="dark"] .bg-black {
+    background-color: #fff !important;
+  }
+  
+  [data-theme="dark"] .bg-dark {
+    background-color: #eee !important;
+  }
+  
+  [data-theme="dark"] .bg-light {
+    background-color: #222 !important;
+  }
+  
+  [data-theme="dark"] .bg-white {
+    background-color: #000 !important;
+  }
+
+  /* HOME */
+  [data-theme="dark"] #topbar {
+    background-color: #000 !important;
+  }
+
+  [data-theme="dark"] #topbar i {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #topbar a {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #header .nav-menu li a {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #header .nav-menu .menu-active a {
+    color: #50d8af !important;
+  }
+
+  [data-theme="dark"] #header {
+    background-color: #000 !important;
+  }
+
+  [data-theme="dark"] #intro {
+    opacity: 80%;
+  }
+
+  [data-theme="dark"] #about h2 {
+    color: white !important;
+  }
+  
+  [data-theme="dark"] #about h3 {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #services h2 {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #services .box {
+    color: white !important;
+    background-color: #000 !important;
+  }
+
+  [data-theme="dark"] #services .box a {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #clients h2 {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #portfolio {
+    background-color: #000 !important;
+  }
+
+  [data-theme="dark"] #portfolio h2 {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #team {
+    background-color: #000 !important;
+  }
+
+  [data-theme="dark"] #team h2 {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #contact h2 {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #contact a {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #contact address {
+    color: white !important;
+  }
+
+  [data-theme="dark"] #footer {
+    background-color: #000 !important;
+  }
+
+  /* END HOME */
